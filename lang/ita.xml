@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Language name="Italian">
+    <mainForm>
+        <colTruck>Camion</colTruck>
+        <colTag>Tag</colTag>
+        <colNickname>Nickname giocatore </colNickname>
+        <colGameID>ID Gioco</colGameID>
+        <groupOpen>Apri il log</groupOpen>
+        <btnOpen>Da oggi</btnOpen>
+        <btnOpenYesterday>Da ieri</btnOpenYesterday>
+        <btnOpenAnother>Apri file</btnOpenAnother>
+        <groupSearch>Cerca</groupSearch>
+        <btnOptions>Opzioni</btnOptions>
+        <btnExit>Esci</btnExit>
+        <menuOpenProfile>Apri Profilo</menuOpenProfile>
+        <menuCopyName>Copia nickname</menuCopyName>
+        <menuCopyID>Copia ID</menuCopyID>
+    </mainForm>
+    <optionsForm>
+        <tabMain>Principale</tabMain>
+        <tabAdv>Avanzate</tabAdv>
+        <groupLanguage>Linguaggio</groupLanguage>
+        <groupOptionSearch>Cerca opzioni</groupOptionSearch>
+        <chckById>Cerca dall'ID</chckById>
+        <chckByTag>Cerca dal Tag</chckByTag>
+        <chckCCase>Differenza maiuscole-minuscole</chckCCase>
+        <btnSave>Salva</btnSave>
+        <groupRegLine>Espressione Linea Regolare</groupRegLine>
+        <lblRegAttention>NON modificare se non sai che cose!</lblRegAttention>
+        <btnRestore>Ripristina parametri</btnRestore>
+    </optionsForm>
+    <messages>
+        <msgNoFile>Il log file {0} non esiste!</msgNoFile>
+        <msgEnterToRegLine>Attenzione, questa stringa potrebbe far smettere di funzionare il programma!</msgEnterToRegLine>
+    </messages>
+</Language>
